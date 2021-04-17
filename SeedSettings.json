@@ -1,0 +1,6 @@
+{
+  "extend": {
+    "actions": []
+  },
+  "platform": "reactjs"
+}
